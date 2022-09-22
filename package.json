@@ -1,0 +1,28 @@
+{
+  "name": "fullstackopen-phonebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjjjjssss/fullstackopen-phonebook.git"
+  },
+  "author": "Joyce Shen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjjjjssss/fullstackopen-phonebook/issues"
+  },
+  "homepage": "https://github.com/jjjjjssss/fullstackopen-phonebook#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
